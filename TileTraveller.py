@@ -21,4 +21,10 @@ while True:
 
         if diragson == "w":
             block_1 -= 1
+        
+        if block_1 == 1 and block_2 == 1:
+
+        
+        if block_1 == 3 and block_2 == 1:
+
     print(block_1, block_2)
